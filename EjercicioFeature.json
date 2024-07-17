@@ -1,0 +1,6 @@
+<soapenv:Envelope xmlns:v12="urn://bancodebogota.com/creditcard/involvedparty/v1/" xmlns:v11="urn://bancodebogota.com/creditcard/product/v1/" xmlns:v1="urn://bancodebogota.com/ifx/base/v1/" xmlns:even="urn://bancodebogota.com/creditcard/product/event/" xmlns:ser="urn://bancodebogota.com/creditcard/product/service/" xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+   <soapenv:Body>
+      <ser:getCCTransDetailResponse>
+         <even:CCTransDetailInqRs>
+            <v1:RqUID>8f451749-27b5-462d-a6e4-8138a0e7f151</v1:RqUID>
+            <v1:Status> ejercicio feature
